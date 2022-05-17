@@ -1,0 +1,7 @@
+git init  - .git
+git remote add <name url>
+git pull origin master
+git status
+git add <name file>
+git add .
+git commit 
